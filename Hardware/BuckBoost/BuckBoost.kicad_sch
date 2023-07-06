@@ -1038,7 +1038,7 @@
     (property "Datasheet" "" (at 74.93 70.358 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 1e7d1072-eb07-4bd8-b976-66a0751e4c4d))
+    (pin "1" (uuid 1398d0a8-65af-4083-8b8e-cb6f99002218))
     (instances
       (project "BuckBoost"
         (path "/1470ebdc-4a7f-4a29-bf78-7ae9f9576b4b"
@@ -1136,7 +1136,7 @@
     (property "Value" "100nF_0603_16V" (at 109.982 104.648 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Footprint" "PCM_4ms_Capacitor:C_0603" (at 118.872 107.188 0)
+    (property "Footprint" "PCM_4ms_Capacitor:CP_Elec_5x5.3" (at 118.872 107.188 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
     (property "Datasheet" "" (at 113.792 104.648 0)
@@ -1177,16 +1177,16 @@
     (property "Value" "Screw_Terminal_01x04" (at 91.694 70.993 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical" (at 88.646 67.818 0)
+    (property "Footprint" "TerminalBlock_Phoenix:TerminalBlock_Phoenix_PT-1,5-4-3.5-H_1x04_P3.50mm_Horizontal" (at 88.646 67.818 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 88.646 67.818 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid caa6de9f-26f3-4037-becc-1ab97516c059))
-    (pin "2" (uuid 85a452f5-1cac-46d5-9fd6-3be219c39e08))
-    (pin "3" (uuid ebcc503a-a861-47b1-8393-337b47da0e6b))
-    (pin "4" (uuid c084f250-e4a9-434d-9301-738c08389f1a))
+    (pin "1" (uuid 435ce74d-74b0-434e-aff0-2c5b9466656a))
+    (pin "2" (uuid a07e7551-357e-4009-b959-67eb168dab26))
+    (pin "3" (uuid 2725e50d-194c-4770-8f65-ad228ab82304))
+    (pin "4" (uuid 05c1fff5-e60a-4801-92d8-4c6110625441))
     (instances
       (project "BuckBoost"
         (path "/1470ebdc-4a7f-4a29-bf78-7ae9f9576b4b"
@@ -1451,7 +1451,7 @@
     (property "Value" "18pF_0603_50V" (at 174.498 97.536 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Footprint" "PCM_4ms_Capacitor:C_0603" (at 171.958 106.426 0)
+    (property "Footprint" "PCM_4ms_Capacitor:CP_Elec_5x5.3" (at 171.958 106.426 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
     (property "Datasheet" "" (at 174.498 101.346 0)
